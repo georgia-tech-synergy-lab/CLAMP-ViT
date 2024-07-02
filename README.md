@@ -56,7 +56,7 @@ python test_clamp_vit.py --model <MODEL-NAME> --weight-path ./quantized/<MODEL-N
 | Swin-S (W5.1/A6.3) | 82.86 |
 
 
-
-
+## Disclaimer
+This “research quality code” is for Non-Commercial purposes and provided by the contributors “As Is” without any express or implied warranty of any kind. The organizations (Intel or georgia Tech) involved do not own the rights to this data set and do not confer any rights to it. The organizations (Intel or georgia Tech) do not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items within the code. A thorough security review has not been performed on this code. Additionally, this repository may contain components that are out of date or contain known security vulnerabilities.
 
 
