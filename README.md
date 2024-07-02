@@ -1,3 +1,5 @@
+![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)
+
 # CLAMP-ViT
 CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs
 
